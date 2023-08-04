@@ -1,0 +1,17 @@
+{
+  "data": {
+    "meta": {
+      "databaseVersion": 2
+    },
+    "https://twitter.com/elonmusk": {
+      "tags": [
+        "X",
+        "CXO"
+      ],
+      "meta": {
+        "title": "Elon Musk"
+      }
+    },
+    "end": {}
+  }
+}
