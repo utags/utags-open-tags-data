@@ -1,0 +1,21 @@
+{
+  "name": "utags-open-tags-data",
+  "version": "1.0.0",
+  "description": "UTags Open Tags Data",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "clean": "node scripts/clean.js",
+    "sort": "node scripts/sort.js",
+    "p": "prettier --write .",
+    "all": "pnpm clean && pnpm sort && pnpm p",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "utags"
+  ],
+  "author": "Pipecraft",
+  "dependencies": {
+    "prettier": "^3.0.1"
+  }
+}
