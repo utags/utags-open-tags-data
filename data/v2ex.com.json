@@ -35,6 +35,15 @@
         "title": "hanxl"
       }
     },
+    "https://www.v2ex.com/member/kongkongye": {
+      "tags": [
+        "独立开发者"
+      ],
+      "meta": {
+        "title": "kongkongye",
+        "type": "user"
+      }
+    },
     "https://www.v2ex.com/member/Livid": {
       "tags": [
         "站长"
@@ -84,6 +93,23 @@
         "title": "summerLast"
       }
     },
+    "https://www.v2ex.com/member/theowenyoung": {
+      "tags": [
+        "沉浸式翻译作者"
+      ],
+      "meta": {
+        "title": "theowenyoung",
+        "type": "user"
+      }
+    },
+    "https://www.v2ex.com/member/tianxin12138": {
+      "tags": [
+        "独立游戏开发者"
+      ],
+      "meta": {
+        "title": "tianxin12138"
+      }
+    },
     "https://www.v2ex.com/member/vulgur": {
       "tags": [
         "独立开发者"
@@ -114,6 +140,25 @@
       ],
       "meta": {
         "title": "关于个体户的几个误解",
+        "type": "topic"
+      }
+    },
+    "https://www.v2ex.com/t/962538": {
+      "tags": [
+        "浏览器扩展",
+        "翻译插件"
+      ],
+      "meta": {
+        "title": "一波支持网页翻译的浏览器翻译插件推荐",
+        "type": "topic"
+      }
+    },
+    "https://www.v2ex.com/t/963030": {
+      "tags": [
+        "NSFW"
+      ],
+      "meta": {
+        "title": "一个专门收集电影被删减片段的网站",
         "type": "topic"
       }
     },
